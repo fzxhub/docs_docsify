@@ -7,6 +7,6 @@
 > 记录学习的文档中心
 
 [GitHub](https://github.com/fzxhub/)
-[收藏链接](link/link)
+[收藏链接](link/)
 [个人网站](https://fzxhub.com)
 [进入文档](/README)
