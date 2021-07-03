@@ -1,15 +1,19 @@
 
+* [**主页**](README)
 
-* 导航
-    * [FPGA](fpga/fpga)
-    * [单片机](mcu/mcu)
-    * [LINUX](linux/linux)
-    * [电路](electric/electric)
-    * [链接](link/link)
+* **导航**
+    * [FPGA](fpga/)
+    * [单片机](mcu/)
+    * [linux](linux/)
+    * [电路](electric/)
+    * [收藏链接](link/)
 
-* 网站
+* **网站**
     * [个人网站](https://fzxhub.com)
     * [文档中心](https://docs.fzxhub.com)
 
-* 语言
+* **语言**
+
+
+
 

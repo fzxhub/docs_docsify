@@ -1,17 +1,13 @@
 
 
-* [介绍](README)
+* [<big>**主页**</big>](README)
 
-* FPGA
-    * [说明](fpga/fpga)
+* [**linux**](linux/)
 
-* 单片机
-    * [说明](mcu/mcu)
+* [**FPGA**](fpga/)
 
-* LINUX
-    * [说明](linux/linux)
+* [**单片机**](mcu/)
 
-* 电路
-    * [说明](electric/electric)
-* 链接
-    * [说明](link/link)
+* [**电路**](electric/)
+
+* [**收藏链接**](link/)
