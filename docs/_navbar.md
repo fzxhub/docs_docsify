@@ -1,6 +1,4 @@
 
-* [**主页**](README)
-
 * **导航**
     * [FPGA](fpga/)
     * [单片机](mcu/)
@@ -8,7 +6,7 @@
     * [电路](electric/)
     * [收藏链接](link/)
 
-* **网站**
+* **fzxhub**
     * [个人网站](https://fzxhub.com)
     * [文档中心](https://docs.fzxhub.com)
 
