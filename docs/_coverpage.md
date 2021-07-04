@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](logo.svg)
+![logo](logo200x200.svg)
 
-# fzxhub <small>1.0.0</small>
+# fzxhub docs <small>1.0.0</small>
 
 > 记录学习的文档中心
 
