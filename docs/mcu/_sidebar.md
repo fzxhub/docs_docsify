@@ -1,6 +1,2 @@
-* [<big>**主页**</big>](README)
 
-* [<big>**单片机**</big>](mcu/README)
-
-    * [**电机**](mcu/motor/)
-    * [**MOS管和三极管**](mcu/transistor/)
+* [**步进电机曲线加速**](mcu/步进电机曲线加速.md)

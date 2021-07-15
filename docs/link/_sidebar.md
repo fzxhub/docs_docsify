@@ -1,7 +1,4 @@
-* [<big>**主页**</big>](README)
 
-* [<big>**收藏链接**</big>](link/README)
-
-    * [**GIT**](link/git/)
+* [**文档**](link/doc.md)
         
-    * [**DOCS**](link/doc/)
+* [**git**](link/git.md)

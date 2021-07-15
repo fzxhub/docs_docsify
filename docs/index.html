@@ -15,7 +15,6 @@
   title="vue"
   disabled
   />
-
   <link
   rel="stylesheet"
   href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dark.css"
@@ -55,16 +54,17 @@
 
 <body>
   <!-- 导航栏 -->
+  <!-- 
   <nav>
     <div class="demo-theme-preview">
     <a data-theme="vue">默认</a>
-    <a data-theme="buble">蓝色</a>
     <a data-theme="dark">黑色</a>
     <a data-theme="defaults">简默</a>
     <a data-theme="simple">简单</a>
     <a data-theme="simple-dark">简黑</a>
     </div>
   </nav>
+  -->
 
   <!-- 配置 -->
   <div id="app"></div>
@@ -94,8 +94,12 @@
       },
 
       count:{
-        countable:false,
-        position:'bottom'
+        countable:true,
+        position:'top',
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
       },
 
       plugins: [

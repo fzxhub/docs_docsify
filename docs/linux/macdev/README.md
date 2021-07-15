@@ -1,5 +1,0 @@
-[filename](MAC通过PD安装的Ubuntu显示问题.md ':include')
-
-[filename](Mac终端连接串口.md ':include')
-
- <p align="right">{docsify-updated}</p>
